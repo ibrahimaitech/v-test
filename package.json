@@ -1,11 +1,11 @@
 {
-    "name": "ibrahim-Md",
+    "name": "Bmw-Md",
   "version": "4.0.0",
   "description": "",
-  "main": "app/ibrahim.js",
+  "main": "ibrahim.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app/ibrahim.js",
+    "start": "node ibrahim.js",
     "c": "tsc"
   },
   "keywords": [
